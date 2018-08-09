@@ -1,1 +1,2 @@
-# activator-model
+# BAM
+Broker Activator Model
